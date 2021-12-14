@@ -1,3 +1,9 @@
 /utils/out.mp4
 /static/tools/ffmpeg.exe
 /static/movies/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/UmaGacha.iml
+/.idea/vcs.xml
+/.idea/inspectionProfiles/profiles_settings.xml
